@@ -12,7 +12,7 @@ Certification
 
 - Diploma : Infrastructure Digital Option Cloud Computing
 - 🎓 Technicien spécialisé en cloud computing (OFPPT, Morocco)
--📜 AWS, Microsoft Azure, and Google Cloud certifications in progress.
+- 📜 AWS, Microsoft Azure, and Google Cloud certifications in progress.
 - Certificate of Achivement: AI Augmented Professional Devolopment Skills in the Dijital Age
 -  Certificate of Achivement: Virtual Assistance Skills in the Dijital Age 
 Skills
