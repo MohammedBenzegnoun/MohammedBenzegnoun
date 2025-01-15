@@ -1,7 +1,30 @@
-## Hi there 👋
+<h1>Hi, I'm Mohammed! <br/><a href="https://github.com/MohammedBenzegnoun">Programmer</a>, <a href="https://www.linkedin.com/in/mohammed-benzegnoun-206424246/">Infrastructure Dijital OPTION Claud Computing Professional</a>
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+
+
+<h2>📺 Popular YouTube Videos</h2>
+
+- [Active Directory Home Lab Tutorial](https://www.youtube.com/watch?v=a83ASGn_V_s)
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="MohammedBenzegnoun | YouTube" width="22px" src="https://www.youtube.com/@sonofzegnoun" />][youtube]
+[<img align="left" alt="MohammedBenzegnoun | Twitter" width="22px" src="https://x.com/benzegnoune?t=sa5Vuh7goV98HoVgo966xQ&s=08" />][twitter]
+[<img align="left" alt="MohammedBenzegnoun | LinkedIn" width="22px" src="https://www.linkedin.com/in/mohammed-benzegnoun-206424246/" />][linkedin]
+[<img align="left" alt="MohammedBenzegnoun | Instagram" width="22px" src="https://www.instagram.com/sonofzegnoune/?hl=fr" />][instagram]
+
+[twitter]: https://x.com/benzegnoune?t=sa5Vuh7goV98HoVgo966xQ&s=08
+[youtube]: https://www.youtube.com/@sonofzegnoun
+[instagram]: https://www.instagram.com/sonofzegnoune/?hl=fr
+[linkedin]: https://www.linkedin.com/in/mohammed-benzegnoun-206424246/
 
 <!--
-**MohammedBenzegnoun/MohammedBenzegnoun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
