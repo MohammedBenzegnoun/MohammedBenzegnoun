@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mohammed! <br/><a href="https://github.com/MohammedBenzegnoun">Programmer</a>, <a href="https://www.linkedin.com/in/mohammed-benzegnoun-206424246/"> Professional in Infrastructure Digital Option Cloud Computing </a>
+<h1>Hi, I'm Mohammed! <br/><a href="https://github.com/MohammedBenzegnoun">Professional in Infrastructure Digital Option Cloud Computing</a>, <a href="https://www.linkedin.com/in/mohammed-benzegnoun-206424246/">  Programmer </a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -8,7 +8,11 @@
 - <b>JWipe - Disk Sanitization)</b>
   - [JWipe - Disk Sanitization](https://github.com/MohammedBenzegnoun/JWipe---Disk-Sanitization.git)
 
+Certification
 
+- Diploma : Infrastructure Digital Option Cloud Computing
+- Certificate of Achivement: AI Augmented Professional Devolopment Skills in the Dijital Age
+-  Certificate of Achivement: Virtual Assistance Skills in the Dijital Age 
 
 
 <h2> 🤳 Connect with me:</h2>
