@@ -14,13 +14,20 @@ Certification
 - 🎓 Technicien spécialisé en cloud computing (OFPPT, Morocco)
 - 📜 AWS, Microsoft Azure, and Google Cloud certifications in progress.
 - Certificate of Achivement: AI Augmented Professional Devolopment Skills in the Dijital Age
--  Certificate of Achivement: Virtual Assistance Skills in the Dijital Age 
+-  Certificate of Achivement: Virtual Assistance Skills in the Dijital Age
+
+
 Skills
 
+
 ☁️ Cloud Computing: Proficient in deploying and managing cloud infrastructure.
+
 💻 Programming: Experience with Python for various automation and scripting tasks.
+
 🌐 Languages: Fluent in French and English.
+
 🛠️ Digital Tools: Skilled in various digital platforms and tools.
+
 📋 Project Management: Strong organizational skills and ability to manage event logistics and budgets.
 
 <h2> 🤳 Connect with me:</h2>
